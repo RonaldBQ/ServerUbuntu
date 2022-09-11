@@ -1,0 +1,37 @@
+body,
+html {
+    background-color: #D8DBE2;
+    font-family: Ubuntu, Verdana, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+th {
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+.sectionTable {
+    background-color: #fff;
+}
+
+p {
+    padding: 15px;
+}
